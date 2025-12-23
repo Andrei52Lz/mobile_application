@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5B5FC7</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#19A7CE</color>
+    <color name="on_secondary">#001018</color>
+
+    <!-- СВЕТЛАЯ ТЕМА -->
+    <color name="bg">#F6F7FB</color>
+    <color name="card">#FFFFFF</color>
+
+    <color name="text_main">#141824</color>
+    <color name="text_muted">#5F6B85</color>
+
+    <!-- НЕОН -->
+    <color name="neon_black">#0A0A0F</color>
+    <color name="neon_white">#F8F8FF</color>
+    <color name="neon_purple">#B026FF</color>
+
+</resources>
+
